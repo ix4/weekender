@@ -6,7 +6,7 @@ Unofficial proof-of-concept modern update for MTA's Weekender. http://web.mta.in
 
 [Why New Yorkers Insisted On a "Worse" Subway Map - Cheddar Explains (YouTube)](https://www.youtube.com/watch?v=OdDsV19DBCU)
 
-[![Why New Yorkers Insisted On a "Worse" Subway Map - Cheddar Explains (YouTube)](https://img.youtube.com/vi/OdDsV19DBCU/0.jpg)](https://www.youtube.com/watch?v=OdDsV19DBCU)
+[![Why New Yorkers Insisted On a "Worse" Subway Map - Cheddar Explains (YouTube)](https://img.youtube.com/vi/OdDsV19DBCU/0.jpg)](https://www.youtube.com/watch?v=OdDsV19DBCU) [![Greenkeeper badge](https://badges.greenkeeper.io/louh/weekender.svg)](https://greenkeeper.io/)
 
 In the early 1970s, famed graphic designer Massimo Vignelli came to NYC to improve the MTA's outdated, ad-hoc signage system. During that time, he also redesigned the MTA subway map. It was the first time the MTA color-coded by routes, rather than by subway operator (which were already consolidated into the MTA). Designers regarded this as one of the best designed subway diagrams of all time, but New Yorkers hated it. In the 1990s, the map was replaced.
 
